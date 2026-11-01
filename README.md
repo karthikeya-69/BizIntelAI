@@ -131,3 +131,10 @@ If you find this project interesting, consider giving this repository a star!
 ⸻
 
 Built with Python, curiosity, and innovation.
+## 🌐 Live Demo
+
+🚀 **Try BizIntel AI Online:**
+
+[![Open App](https://img.shields.io/badge/Live%20Demo-Launch%20BizIntel%20AI-success?style=for-the-badge&logo=streamlit)](https://bizintel-ai-karthikeya.streamlit.app/)
+
+**Live URL:** https://bizintel-ai-karthikeya.streamlit.app/
