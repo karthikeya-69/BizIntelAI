@@ -35,7 +35,16 @@ Visualization Libraries	Charts and graphs
 
 See requirements.txt for the exact installed dependencies.
 
-📸 Application Screenshots
+## 📸 Application Screenshots
+
+### 1. Main Dashboard
+![BizIntel AI Dashboard](screenshots/dashboard.png)
+
+### 2. Revenue Analytics
+![Revenue Analytics](screenshots/revenue-analytics.png)
+
+### 3. CV Upload
+![CV Upload](screenshots/cv-upload.png)
 
 Add your actual application screenshots here.
 
