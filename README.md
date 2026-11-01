@@ -43,9 +43,6 @@ See requirements.txt for the exact installed dependencies.
 ### 2. Revenue Analytics
 ![Revenue Analytics](screenshots/revenue-analytics.png)
 
-### 3. CV Upload
-![CV Upload](screenshots/cv-upload.png)
-
 Add your actual application screenshots here.
 
 Dashboard
