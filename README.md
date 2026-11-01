@@ -46,19 +46,7 @@ See requirements.txt for the exact installed dependencies.
 ### 3. CV Upload
 ![CV Upload](screenshots/cv-upload.png)
 
-Add your actual application screenshots here.
 
-Dashboard
-
-<!-- Add dashboard screenshot here -->
-
-Revenue Analytics
-
-<!-- Add revenue chart screenshot here -->
-
-CV Upload
-
-<!-- Add CV upload screenshot here -->
 
 ⚙️ Installation and Setup
 
