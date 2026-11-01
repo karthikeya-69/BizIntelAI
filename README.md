@@ -38,7 +38,7 @@ See requirements.txt for the exact installed dependencies.
 ## 📸 Application Screenshots
 
 ### 1. Main Dashboard
-![BizIntel AI Dashboard](screenshots/dashboard.png)
+![BizIntel AI Dashboard](screenshots/dashboards.png)
 
 ### 2. Revenue Analytics
 ![Revenue Analytics](screenshots/revenue-analytics.png)
